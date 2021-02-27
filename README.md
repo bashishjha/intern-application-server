@@ -9,7 +9,7 @@
 * UNIT AND INTGERATION TESTING
 * MAVEN
 * LOGGING
-* RDBMS
+* mysql
 
 #### This application has following modules :
 
