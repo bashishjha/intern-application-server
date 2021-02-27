@@ -1,15 +1,15 @@
 ## Intern is an application used for managing the internship programs. 
                                                                     - Made by Ashish Jha.
 
-#### Things I used in this Java backend application.
+#### Stack I used in this Java backend application.
 
 * JPA
 * REST API
 * SPRING FRAMEWORK
-* UNIT AND INTGERATION TESTING
+* UNIT TESTING
 * MAVEN
 * LOGGING
-* mysql
+* MYSQL
 * POSTMAN
 
 #### This application has following modules :
@@ -21,7 +21,7 @@
 
 #### Instructions for running this application:
 
-* Launch the eclipse and import the provided project. Now you can see a project with name Interns in your Eclipse Project explorer. You must implement the requirements in this project.
+* Launch the eclipse and import the provided project. Now you can see a project in your Eclipse Project explorer.
 * Right click on project → Maven → Update Project… → Check the box “Force Update of Snapshots/Releases” → Click on OK.
 * Modify database credentials and connection url in application.properties file if required.
 * Execute the provided table scripts in src/main/resources folder.
