@@ -10,6 +10,7 @@
 * MAVEN
 * LOGGING
 * mysql
+* POSTMAN
 
 #### This application has following modules :
 
