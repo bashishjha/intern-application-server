@@ -1,7 +1,7 @@
 ## Intern is an application used for managing the internship programs. 
                                                                     - Made by Ashish Jha.
 
-#### Stack I used in this Java backend application.
+#### Stacks I used in this Java backend application.
 
 * JPA
 * REST API
