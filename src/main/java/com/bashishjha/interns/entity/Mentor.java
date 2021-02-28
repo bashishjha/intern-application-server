@@ -9,8 +9,8 @@ import javax.persistence.Id;
 @Entity
 public class Mentor {
 	@Id
-	private Integer mentorId;
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Integer mentorId;
 	private String mentorName;
 
 	@Column(name = "projects_mentored")
